@@ -7,7 +7,7 @@
 
 才能成功編譯.
 
-## 使用方法
+## 使用方法 (要有原生的 IPFS 環境)
 
 ```
   $ git clone https://github.com/yenkuanlee/Close-IPFS-gx
